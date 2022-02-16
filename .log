@@ -106,3 +106,52 @@
 2022-02-11 14:38:13,521 [4744] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2022-02-11 14:38:13,523 [4744] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2022-02-11 14:38:13,523 [4744] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-02-11 15:36:13,106 [13920] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-02-11 15:36:13,106 [13920] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-02-11 15:36:13,108 [13920] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-02-11 15:36:13,111 [13920] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-02-11 15:36:13,113 [13920] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-02-11 15:36:13,113 [13920] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-02-11 15:36:13,900 [13920] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-02-11 15:36:13,900 [13920] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-02-11 15:36:13,901 [13920] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-02-11 15:36:13,908 [13920] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-02-11 15:36:13,910 [13920] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-02-11 15:36:13,911 [13920] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-02-11 15:38:54,955 [10580] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-02-11 15:38:54,955 [10580] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-02-11 15:38:54,955 [10580] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-02-11 15:38:54,963 [10580] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-02-11 15:38:54,965 [10580] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-02-11 15:38:54,967 [10580] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-02-11 15:38:55,508 [10580] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-02-11 15:38:55,508 [10580] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-02-11 15:38:55,509 [10580] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-02-11 15:38:55,515 [10580] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-02-11 15:38:55,517 [10580] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-02-11 15:38:55,519 [10580] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-02-11 15:46:03,753 [10580] WARNING  py.warnings:110: [JupyterRequire] C:\Users\20182960\AppData\Local\Continuum\anaconda3\lib\site-packages\ipykernel_launcher.py:3: DeprecatedWarning: filter_ is deprecated as of 2.1.3.1 and will be removed in 2.4.0. filter_() deprecated, use pm4py.filter_log() or pm4py.filter_trace() instead
+  This is separate from the ipykernel package so we can avoid doing imports until
+
+2022-02-11 15:46:03,755 [10580] WARNING  py.warnings:110: [JupyterRequire] C:\Users\20182960\AppData\Local\Continuum\anaconda3\lib\site-packages\pm4py\objects\log\util\func.py:47: UserWarning: input log object not of appropriate type, filter() not applied
+  warnings.warn('input log object not of appropriate type, filter() not applied')
+
+2022-02-11 15:46:23,784 [10580] WARNING  py.warnings:110: [JupyterRequire] C:\Users\20182960\AppData\Local\Continuum\anaconda3\lib\site-packages\ipykernel_launcher.py:3: DeprecatedWarning: filter_ is deprecated as of 2.1.3.1 and will be removed in 2.4.0. filter_() deprecated, use pm4py.filter_log() or pm4py.filter_trace() instead
+  This is separate from the ipykernel package so we can avoid doing imports until
+
+2022-02-11 15:46:23,786 [10580] WARNING  py.warnings:110: [JupyterRequire] C:\Users\20182960\AppData\Local\Continuum\anaconda3\lib\site-packages\pm4py\objects\log\util\func.py:47: UserWarning: input log object not of appropriate type, filter() not applied
+  warnings.warn('input log object not of appropriate type, filter() not applied')
+
+2022-02-15 13:13:01,155 [5912] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-02-15 13:13:01,157 [5912] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-02-15 13:13:01,158 [5912] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-02-15 13:13:01,164 [5912] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-02-15 13:13:01,165 [5912] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-02-15 13:13:01,166 [5912] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-02-15 13:13:04,990 [5912] INFO     numexpr.utils:141: [JupyterRequire] NumExpr defaulting to 8 threads.
+2022-02-15 13:13:07,610 [5912] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-02-15 13:13:07,611 [5912] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-02-15 13:13:07,611 [5912] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-02-15 13:13:07,618 [5912] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-02-15 13:13:07,620 [5912] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-02-15 13:13:07,620 [5912] DEBUG    root:97: [JupyterRequire] Registering comm targets.
